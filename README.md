@@ -3,13 +3,14 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Time%20Series-LSTM%20Recurrent%20Networks-FF6F00.svg?logo=tensorflow&logoColor=white" alt="LSTM">
+<img src="https://img.shields.io/badge/Forecasting-Climate%20Analytics-blue.svg" alt="Climate">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -184,6 +185,8 @@ jupyter notebook FINAL/prediction.ipynb
 jupyter notebook FINAL/heatmaps.ipynb
 ```
 Open `FINAL/city_map.html` in any web browser to explore the interactive geospatial GIS interface.
+
+---
 
 ---
 
