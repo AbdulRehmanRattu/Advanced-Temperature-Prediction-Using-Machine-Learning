@@ -1,5 +1,20 @@
 # Global Climate Change and Land Temperature Forecasting System (Time Series & LSTM)
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" alt="Deep Learning">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 
 Global climate dynamics and rising surface temperatures present severe systemic risks to ecological equilibrium, urban infrastructure, and agricultural crop yields. Quantifying historical climate trajectories and forecasting future temperature shifts requires robust statistical time-series decomposition and non-linear deep sequence modeling.
@@ -7,7 +22,6 @@ Global climate dynamics and rising surface temperatures present severe systemic 
 This project implements an enterprise-scale climate analytics and temperature forecasting suite trained on multi-century global climate sensor records (from 1750 to modern era). The system combines automated geospatial cleaning, seasonal Autoregressive Integrated Moving Average (ARIMA) modeling, Deep Long Short-Term Memory (LSTM) recurrent networks, and agricultural yield correlation modeling, accompanied by high-resolution geospatial heatmaps.
 
 ---
-
 
 ---
 
@@ -170,3 +184,15 @@ jupyter notebook FINAL/prediction.ipynb
 jupyter notebook FINAL/heatmaps.ipynb
 ```
 Open `FINAL/city_map.html` in any web browser to explore the interactive geospatial GIS interface.
+
+---
+
+## Author & Maintainer
+
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
